@@ -51,7 +51,10 @@
 * [@lowking](https://github.com/lowking/Scripts)
 
 * [@nzw9314](https://github.com/nzw9314/QuantumultX/tree/master)
+
 * [@Orz-3](https://github.com/Orz-3/mini.git)
+
+* [@Tartarus2014](https://github.com/Tartarus2014/mini.git)
 
 
 
