@@ -44,8 +44,6 @@
 
 * [@evilbutcher](https://github.com/evilbutcher/Quantumult_X/tree/master)
 
-* [@lxk0301](https://github.com/lxk0301/jd_scripts)
-
 * [@toulanboy](https://github.com/toulanboy/scripts)
 
 * [@lowking](https://github.com/lowking/Scripts)
@@ -56,6 +54,6 @@
 
 * [@Tartarus2014](https://github.com/Tartarus2014)
 
-
+* [@lxk9301](https://github.com/LXK9301/jd_scripts/tree/master)
 
 
