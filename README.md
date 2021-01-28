@@ -56,4 +56,7 @@
 
 * [@lxk9301](https://github.com/LXK9301/jd_scripts/tree/master)
 
+* [@lxk0301](https://gitee.com/lxk0301/jd_scripts/tree/master/)
+
+
 
