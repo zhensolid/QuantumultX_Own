@@ -14,5 +14,5 @@
 # 分流用参考：https://raw.githubusercontent.com/zhensolid/QuantumultX_Own/master/ip.list, force-policy=🖲️𝐏𝐫𝐨𝐱𝐲, tag=Task, enabled=true, opt-parser=true
 DOMAIN-KEYWORD,azureedge.net
 DOMAIN-KEYWORD,guildst2.sakura.ne.jp
-DOMAIN-KEYWORD,guildst1.sakura.ne.jp
+DOMAIN-KEYWORD,guildst1.sakura.ne.jp:80
 DOMAIN-KEYWORD,guildpr1.sakura.ne.jp
