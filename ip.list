@@ -13,5 +13,6 @@
 # MATCH：全匹配
 # 分流用参考：https://raw.githubusercontent.com/zhensolid/QuantumultX_Own/master/ip.list, force-policy=🖲️𝐏𝐫𝐨𝐱𝐲, tag=Task, enabled=true, opt-parser=true
 DOMAIN-KEYWORD,azureedge.net
-DOMAIN-KEYWORD,*.sakura.ne.jp
-DST-PORT:sakura.ne.jp
+DOMAIN-SUFFIX,sakura.ne.jp
+#域名后缀匹配
+
