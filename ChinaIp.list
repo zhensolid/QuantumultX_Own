@@ -15,6 +15,6 @@
 # DOMAIN-KEYWORD,azureedge.net
 # DOMAIN-SUFFIX,sakura.ne.jp
 DOMAIN-SUFFIX,ghproxy.com
-DOMAIN-KEYWORD,ghproxy.com
+DOMAIN-KEYWORD,ghproxy
 #域名后缀匹配
 
