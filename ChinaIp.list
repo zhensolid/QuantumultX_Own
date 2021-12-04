@@ -16,5 +16,7 @@
 # DOMAIN-SUFFIX,sakura.ne.jp
 DOMAIN-SUFFIX,ghproxy.com,REJECT
 DOMAIN-KEYWORD,ghproxy,REJECT
+IP-CIDR，149.154.171.*,REJECT
+
 #域名后缀匹配
 
