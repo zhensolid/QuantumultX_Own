@@ -14,9 +14,9 @@
 # 分流用参考：https://raw.githubusercontent.com/zhensolid/QuantumultX_Own/master/ip.list, force-policy=🖲️𝐏𝐫𝐨𝐱𝐲, tag=Task, enabled=true, opt-parser=true
 # DOMAIN-KEYWORD,azureedge.net
 # DOMAIN-SUFFIX,sakura.ne.jp
-DOMAIN-SUFFIX,ghproxy.com,REJECT
-DOMAIN-KEYWORD,ghproxy,REJECT
-IP-CIDR，149.154.171.*,REJECT
+DOMAIN-SUFFIX,ghproxy.com,DIRECT
+DOMAIN-KEYWORD,ghproxy,DIRECT
+IP-CIDR，149.154.171.*,DIRECT
 
 #域名后缀匹配
 
