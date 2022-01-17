@@ -1,9 +1,17 @@
 # 分流本地/局域网地址
 # 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
 # DOMAIN-SUFFIX：域名后缀匹配
+# DOMAIN-SUFFIX, qq.com, DIRECT
+
 # DOMAIN：域名匹配
+# DOMAIN, weixin.qq.com, DIRECT
+
 # DOMAIN-KEYWORD：域名关键字匹配
+# DOMAIN-KEYWORD, ali, DIRECT
+
 # IP-CIDR：IP 段匹配
+# IP-CIDR, 91.108.56.0/22, Proxy, no-resolve
+
 # SRC-IP-CIDR：源 IP 段匹配
 # GEOIP：GEOIP 数据库（国家代码）匹配
 # DST-PORT：目标端口匹配
