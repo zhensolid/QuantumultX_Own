@@ -1,0 +1,30 @@
+{
+    "name": "Tasks",
+    "task": [
+        {
+            "name": "电信营业厅",
+            "script-path": "https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js",
+            "schedule": "1 0 * * *"
+        },
+        {
+            "name": "AcFun",
+            "script-path": "https://raw.githubusercontent.com/chavyleung/scripts/master/acfun/acfun.js",
+            "schedule": "1 0 * * *"
+        },
+        {
+            "name": "APK.TW",
+            "script-path": "https://raw.githubusercontent.com/chavyleung/scripts/master/apktw/apktw.js",
+            "schedule": "1 0 * * *"
+        },
+    {
+            "name": "智行火车",
+            "script-path": "https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.js",
+            "schedule": "1 0 * * *"
+        },
+        {
+            "name": "苏宁易购",
+            "script-path": "https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js",
+            "schedule": "7 0 * * *"
+        }
+    ]
+}
