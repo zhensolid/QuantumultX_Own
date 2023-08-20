@@ -25,13 +25,13 @@
 DOMAIN-SUFFIX,ghproxy.com,DIRECT
 DOMAIN-KEYWORD,ghproxy,DIRECT
 
-#民生银行
+#民生银行,关键词匹配
 DOMAIN-KEYWORD, cmbc, DIRECT
-#工商银行
+#工商银行,关键词匹配
 DOMAIN-KEYWORD, icbc, DIRECT
-#中国银行
+#中国银行,关键词匹配
 DOMAIN-KEYWORD, boc, DIRECT
-#建设银行
+#建设银行,关键词匹配
 DOMAIN-KEYWORD, ccb, DIRECT
 #域名后缀匹配
 
