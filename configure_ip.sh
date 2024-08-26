@@ -71,7 +71,7 @@ ONBOOT=yes
 EOL
 
     # 重启网络服务以应用更改
-    systemctl restart network
+    systemctl restart NetworkManager
 
     echo "动态IP配置已成功应用。"
 }
