@@ -46,7 +46,11 @@ DNS1=$dns
 EOL
 
     # 重启网络服务以应用更改
-    systemctl restart network
+    if systemctl status NetworkManager &>/dev/null; then
+        systemctl restart NetworkManager
+    else
+        systemctl restart network
+    fi
 
     echo "静态IP配置已成功应用。"
 }
@@ -71,7 +75,11 @@ ONBOOT=yes
 EOL
 
     # 重启网络服务以应用更改
-    systemctl restart NetworkManager
+    if systemctl status NetworkManager &>/dev/null; then
+        systemctl restart NetworkManager
+    else
+        systemctl restart network
+    fi
 
     echo "动态IP配置已成功应用。"
 }
