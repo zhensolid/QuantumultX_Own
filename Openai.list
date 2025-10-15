@@ -11,9 +11,6 @@
 
 # IP-CIDR：IP 段匹配
 # IP-CIDR, 91.108.56.0/22, Proxy, no-resolve
-# 指定IP不走代理
-IP-CIDR, 84.235.240.199/32, DIRECT, no-resolve
-IP-CIDR, 40.233.18.33/32, DIRECT, no-resolve
 
 # SRC-IP-CIDR：源 IP 段匹配
 # GEOIP：GEOIP 数据库（国家代码）匹配
